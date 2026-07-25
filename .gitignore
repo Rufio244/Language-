@@ -1,0 +1,9 @@
+*.env
+*.key
+secrets.json
+KEYS_LIST.txt
+__pycache__/
+*.pyc
+storage/
+*.db
+*.log
