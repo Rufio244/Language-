@@ -1,1 +1,10 @@
+{
+    "central_hub":"EN",
+    "languages":["JA","EN","ES","TH","CN","FR","DE"],
+    "pairs": [
+        {"from":"JA","to":"ES","via":"EN"},
+        {"from":"TH","to":"CN","via":"EN"}
+    ],
+    "status":"structured"
+}
 
